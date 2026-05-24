@@ -42,15 +42,15 @@ However, the control campaign maintained stronger conversion efficiency and lowe
 
 ## CTR Comparison
 
-![CTR Comparison](ctr_chart.png)
+![CTR Comparison](image/ctr_chart.png)
 
 ## Conversion Rate Comparison
 
-![Conversion Rate](ConversionRate.png)
+![Conversion Rate](image/ConversionRate.png)
 
 ## Cost per Purchase Comparison
 
-![Cost per Purchase](CostperPurchase.png)
+![Cost per Purchase](image/CostperPurchase.png)
 
 ---
 
@@ -60,7 +60,7 @@ The funnel analysis showed that the test campaign generated more clicks and enga
 
 This suggests that the test campaign attracted lower-intent traffic.
 
-![Funnel Comparison](FunnelComparison.png)
+![Funnel Comparison](image/FunnelComparison.png)
 
 ---
 
@@ -70,7 +70,7 @@ Boxplot analysis showed substantial overlap between the purchase distributions o
 
 This visually supports the statistical testing results indicating no significant difference in purchase outcomes.
 
-![Purchase Distribution](PurchaseDistribution.png)
+![Purchase Distribution](image/PurchaseDistribution.png)
 
 ---
 
@@ -80,19 +80,19 @@ This visually supports the statistical testing results indicating no significant
 
 The purchase trends fluctuated heavily over time, with no consistent long-term winner between the two campaigns.
 
-![Purchase Trend](PurchaseTrend.png)
+![Purchase Trend](image/PurchaseTrend.png)
 
 ## CTR Trend
 
 The test campaign consistently generated higher CTR values, indicating stronger ad attractiveness and engagement performance.
 
-![CTR Trend](CTRTrend.png)
+![CTR Trend](image/CTRTrend.png)
 
 ## Conversion Rate Trend
 
 Although the test campaign generated stronger engagement, the control campaign maintained higher conversion efficiency over time.
 
-![Conversion Rate Trend](ConversionRateTrend.png)
+![Conversion Rate Trend](image/ConversionRateTrend.png)
 
 ---
 
@@ -104,7 +104,7 @@ The strongest behavioral relationship was observed between Add-to-Cart activity 
 
 This suggests that downstream funnel behavior is more predictive of conversion success than top-funnel engagement metrics.
 
-![Correlation Heatmap](CorrelationHeatmapTrend.png)
+![Correlation Heatmap](image/CorrelationHeatmapTrend.png)
 
 ---
 
